@@ -6,7 +6,9 @@ Once the container restarts your configuration will kick in and update just as D
 <br>
 I will be making a more indepth documentation record for this repository when I can.
 <br>
+<br>
 License Info - I use the GPLv3 License for the container but the products used in this container are under this own license agreements. Please refer to this documentation for more information.
 <br>
-<b><u>Revision History</b></u><br>
+<br>
+<h3><b><u>Revision History</b></u></h3><br>
 1-1-2022 - WM3 - Created V1
